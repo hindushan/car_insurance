@@ -71,7 +71,7 @@
             <small class="error" v-if="error.message.error">{{error.message.message}}</small>
           </div>
 
-          <input type="submit" class="btn btn-success" @click="sendFn()" value="SEND" />
+          <input type="submit" class="btn btn-success" @click="sendFn()" value="SUBMIT" />
         </div>
       </div>
     </div>
@@ -148,7 +148,7 @@ export default {
   },
   methods: {
     sendFn() {
-      const that = this
+      const that = this;
       const error = this.error;
       this.validateFormFn();
       if (
@@ -201,6 +201,10 @@ export default {
     validatePhoneFn() {
       if (!this.phone) {
         this.error.phone.error = true;
+      } else {
+        if (this.phone.length < 10) {
+          this.error.phone.error = true;
+        }
       }
     },
 

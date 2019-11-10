@@ -78,7 +78,7 @@
               class="d-md-flex justify-content-between align-items-center py-3 text-center text-md-left"
             >
               <p class="mb-0">
-                <span style="color: white">Car Insurance</span> &copy; 2018
+                <span style="color: white">Car Insurance</span> &copy; 2016
                 <span style="color: green">Privacy Policy</span>
               </p>
             </div>
