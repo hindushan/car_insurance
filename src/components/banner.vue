@@ -14,21 +14,24 @@
                 <div class="col-lg-7">
                   <h1 class="text-white">Car</h1>
                   <h1 class="text-white">Insurance</h1>
-                  <p style="margin-top:0px">
+                  <p style="color: black;margin-top:0px">
                     Price From
-                    <span class="text-lg">$123</span>
+                    <span class="text-lg">$175</span>
                   </p>
-                  <p style="color:white">testing</p>
+                  <p style="color:white">
+                    10% of the Customers paid $175 or less between October 1st 2014 and
+                    March 31st 2015 insuring your car has been so easy and the types of policies available have never been better.
+                  </p>
                   <button
                     type="button"
                     class="btn btn-success"
                     style="margin-right: 20px; background-color:white; color: black; border-color: white"
-                  >GET A QUATE</button>
+                  >GET A QUOTE</button>
                   <button
                     type="button"
                     class="btn btn-success"
                     style="border-color: white"
-                  >RETRIEVE QUATE</button>
+                  >RETRIEVE QUOTE</button>
                 </div>
               </div>
             </div>
@@ -48,21 +51,24 @@
                 <div class="col-lg-7">
                   <h1 class="text-white">Car</h1>
                   <h1 class="text-white">Insurance - 2</h1>
-                  <p style="margin-top:0px">
+                 <p style="color: black;margin-top:0px">
                     Price From
-                    <span class="text-lg">$123</span>
+                    <span class="text-lg">$175</span>
                   </p>
-                  <p style="color:white">testing</p>
+                  <p style="color:white">
+                    10% of the Customers paid $175 or less between October 1st 2014 and
+                    March 31st 2015 insuring your car has been so easy and the types of policies available have never been better.
+                  </p>
                   <button
                     type="button"
                     class="btn btn-success"
                     style="margin-right: 20px; background-color:white; color: black; border-color: white"
-                  >GET A QUATE</button>
+                  >GET A QUOTE</button>
                   <button
                     type="button"
                     class="btn btn-success"
                     style="border-color: white"
-                  >RETRIEVE QUATE</button>
+                  >RETRIEVE QUOTE</button>
                 </div>
               </div>
             </div>
@@ -82,21 +88,24 @@
                 <div class="col-lg-7">
                   <h1 class="text-white">Car</h1>
                   <h1 class="text-white">Insurance - 3</h1>
-                  <p style="margin-top:0px">
+                  <p style="color: black;margin-top:0px">
                     Price From
-                    <span class="text-lg">$123</span>
+                    <span class="text-lg">$175</span>
                   </p>
-                  <p style="color:white">testing</p>
+                  <p style="color:white">
+                    10% of the Customers paid $175 or less between October 1st 2014 and
+                    March 31st 2015 insuring your car has been so easy and the types of policies available have never been better.
+                  </p>
                   <button
                     type="button"
                     class="btn btn-success"
                     style="margin-right: 20px; background-color:white; color: black; border-color: white"
-                  >GET A QUATE</button>
+                  >GET A QUOTE</button>
                   <button
                     type="button"
                     class="btn btn-success"
                     style="border-color: white"
-                  >RETRIEVE QUATE</button>
+                  >RETRIEVE QUOTE</button>
                 </div>
               </div>
             </div>
@@ -115,21 +124,24 @@
                 <div class="col-lg-7">
                   <h1 class="text-white">Car</h1>
                   <h1 class="text-white">Insurance - 4</h1>
-                  <p style="margin-top:0px">
+                  <p style="color: black;margin-top:0px">
                     Price From
-                    <span class="text-lg">$123</span>
+                    <span class="text-lg">$175</span>
                   </p>
-                  <p style="color:white">testing</p>
+                  <p style="color:white">
+                    10% of the Customers paid $175 or less between October 1st 2014 and
+                    March 31st 2015 insuring your car has been so easy and the types of policies available have never been better.
+                  </p>
                   <button
                     type="button"
                     class="btn btn-success"
                     style="margin-right: 20px; background-color:white; color: black; border-color: white"
-                  >GET A QUATE</button>
+                  >GET A QUOTE</button>
                   <button
                     type="button"
                     class="btn btn-success"
                     style="border-color: white"
-                  >RETRIEVE QUATE</button>
+                  >RETRIEVE QUOTE</button>
                 </div>
               </div>
             </div>

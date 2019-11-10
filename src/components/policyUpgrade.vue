@@ -5,16 +5,19 @@
       <div class="row">
         <div class="col-2"></div>
         <div class="col-5">
-          <h3 style="color: white">Hey how are you</h3>
-          <p style="color: white">Fine, You?</p>
+          <h3 style="color: white">Personalize Your cover with our policy upgrades</h3>
+          <p style="color: white">you can learn more about our range policy upgrade, each of which can be easily added to your car insuracne</p>
         </div>
         <div class="col-5">
           <ul style="color: green">
-            <li>1</li>
-            <li>2</li>
-            <li>3</li>
-            <li>4</li>
-            <li>5</li>
+            <li> Breakdown Cover</li>
+            <li>Personal Injury Cover</li>
+            <li>Hire Car Cover</li>
+            <li>Bonus Acceletor</li>
+            <li>Modifications Cover</li>
+            <li>Keycare Cover</li>
+            <li>Motor LEgal Protection</li>
+
           </ul>
         </div>
         <div class="col-2"></div>

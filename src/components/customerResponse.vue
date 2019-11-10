@@ -13,34 +13,26 @@
                     <div class="testimonial">
                       <p
                         style="color: white"
-                      >Vestibulum</p>
+                      >As my first car insurance claim, your
+                      team made it easy. There was a once month turnaround from crashing my car
+                      to getting it back, amzing. i am a very happy Customer</p>
                     </div>
                     <div class="media">
-                      <b>Paula Wilson &nbsp;&nbsp;</b>
-                      <span style="color: green"> &nbsp;&nbsp; 2019 Aug</span>
+                      <b>Alison Sheffield &nbsp;&nbsp;</b>
+                      <span style="color: green"> &nbsp;&nbsp;   - aprill 2016 Aug</span>
                     </div>
                   </div>
                   <div class="col-sm-3">
                     <div class="testimonial">
                       <p
                         style="color: white"
-                      >Vestibulum</p>
+                       >As my first car insurance claim, your
+                      team made it easy. There was a once month turnaround from crashing my car
+                      to getting it back, amzing. i am a very happy Customer</p>
                     </div>
                     <div class="media">
-                      <b>Paula Wilson &nbsp;&nbsp;</b>
-                      <span style="color: green"> &nbsp;&nbsp; 2019 Aug</span>
-                    </div>
-                  </div>
-
-                  <div class="col-sm-3">
-                    <div class="testimonial">
-                      <p
-                        style="color: white"
-                      >Vestibulum</p>
-                    </div>
-                    <div class="media">
-                      <b>Paula Wilson &nbsp;&nbsp;</b>
-                      <span style="color: green"> &nbsp;&nbsp; 2019 Aug</span>
+                      <b>Alison Sheffield &nbsp;&nbsp;</b>
+                      <span style="color: green"> &nbsp;&nbsp;  - aprill 2016 Aug</span>
                     </div>
                   </div>
 
@@ -48,11 +40,27 @@
                     <div class="testimonial">
                       <p
                         style="color: white"
-                      >Vestibulum</p>
+                        >As my first car insurance claim, your
+                      team made it easy. There was a once month turnaround from crashing my car
+                      to getting it back, amzing. i am a very happy Customer</p>
                     </div>
                     <div class="media">
-                      <b>Paula Wilson &nbsp;&nbsp;</b>
-                      <span style="color: green"> &nbsp;&nbsp; 2019 Aug</span>
+                      <b>Alison Sheffield &nbsp;&nbsp;</b>
+                      <span style="color: green"> &nbsp;&nbsp;   - aprill 2016 Aug</span>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-3">
+                    <div class="testimonial">
+                      <p
+                        style="color: white;"
+                       >As my first car insurance claim, your
+                      team made it easy. There was a once month turnaround from crashing my car
+                      to getting it back, amzing. i am a very happy Customer</p>
+                    </div>
+                    <div class="media">
+                      <b>Alison Sheffield &nbsp;&nbsp;</b>
+                      <span style="color: green"> &nbsp;&nbsp;  - aprill 2016 Aug</span>
                     </div>
                   </div>
 
@@ -81,7 +89,7 @@ h2::after {
   width: 50%;
   position: absolute;
   height: 4px;
-  border-radius: 1px;
+  border-radius: 0px;
   background: #ff5555;
   left: 0;
   bottom: -20px;
@@ -140,8 +148,8 @@ h2::after {
   margin: 0;
 }
 .carousel .testimonial p::before {
-  content: "\94";
-  color: #f2f2f2;
+  /* content: "\94"; */
+  /* color: #f2f2f2; */
   font-weight: bold;
   font-size: 68px;
   line-height: 70px;
@@ -188,12 +196,12 @@ h2::after {
 }
 .carousel-indicators li {
   background: #e2e2e2;
-  border: 4px solid #fff;
+  border: 0px solid #fff;
 }
 .carousel-indicators li.active {
   color: #f2f2f2;
   background: #ff5555;
-  border: 5px double;
+  border: 0px double;
 }
 .star-rating li {
   padding: 0 2px;

@@ -10,10 +10,10 @@
               <br />
               <h5 class="card-title" style="font-zise: 15px;">Single Car Insurance</h5>
               <p style="margin-top:0px; color: green">
-                Price From
-                <span class="text-lg">$123</span>
+                From
+                <span class="text-lg">$150</span>
               </p>
-              <p class="text">20% of per user</p>
+              <p class="text">20% of our customers paid $150 between just 1st 2015 to may 22nd 2015</p>
               <button type="button" class="btn btn-success">LEARN MORE</button>
             </div>
           </div>
@@ -23,12 +23,12 @@
               <i class="fa fa-car" style="font-size:60px;color:green;"></i>
               <br />
               <br />
-              <h5 class="card-title" style="font-zise: 15px;">Single Car Insurance</h5>
+              <h5 class="card-title" style="font-zise: 15px;">Multi-Car Car Insurance</h5>
               <p style="margin-top:0px; color: green">
-                Price From
-                <span class="text-lg">$123</span>
+                From
+                <span class="text-lg">$150</span>
               </p>
-              <p class="text">20% of per user</p>
+              <p class="text">20% of our customers paid $150 between just 1st 2015 to may 22nd 2015</p>
               <button type="button" class="btn btn-success">LEARN MORE</button>
             </div>
           </div>
@@ -38,12 +38,13 @@
               <i class="fa fa-car" style="font-size:60px;color:green;"></i>
               <br />
               <br />
-              <h5 class="card-title" style="font-zise: 15px;">Single Car Insurance</h5>
+
+               <h5 class="card-title" style="font-zise: 15px;">Black Box Insurance</h5>
               <p style="margin-top:0px; color: green">
-                Price From
-                <span class="text-lg">$123</span>
+                From
+                <span class="text-lg">$150</span>
               </p>
-              <p class="text">20% of per user</p>
+              <p class="text">20% of our customers paid $150 between just 1st 2015 to may 22nd 2015</p>
               <button type="button" class="btn btn-success">LEARN MORE</button>
             </div>
           </div>

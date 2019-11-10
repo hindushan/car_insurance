@@ -25,16 +25,16 @@
 
              <ul class="list-unstyled mb-0 footer-contact">
                 <li>
-                  <i class="fas fa-map-marker-alt" style="color: green"></i><span style="color: #6c6c73">location</span>
+                  <i class="fas fa-map-marker-alt" style="color: green"></i><span style="color: #6c6c73">Car Insurance Glasgow </span>
                 </li>
                 <li>
-                  <i class="fas fa-phone" style="color: green"></i><span style="color: #6c6c73">Contact</span>
+                  <i class="fas fa-phone" style="color: green"></i><span style="color: #6c6c73">800-2345-6789</span>
                 </li>
                 <li>
-                  <i class="fas fa-envelope" style="color: green"></i><span style="color: #6c6c73"> Mail</span>
+                  <i class="fas fa-envelope" style="color: green"></i><span style="color: #6c6c73"> info@demolink.org</span>
                 </li>
                 <li>
-                  <i class="fas fa-clock" style="color: green"></i><span style="color: #6c6c73">Time</span>
+                  <i class="fas fa-clock" style="color: green"></i><span style="color: #6c6c73">7Days a week from 9:00 am to 7:00 pm</span>
                 </li>
               </ul>
             </div>
@@ -62,7 +62,10 @@
               <h4 class="mb-3">About</h4>
 
               <p style="color: #6c6c73">
-                  Hi this is about is
+                  *Car insurancce is a NY based insurance company that was set up 1993 to specialise in car insurance.
+                  in 2005 we launched the first Multi car insurance cover which alows two or more people to insure theri cars one policy and
+                  get a discount on the overall price. in 2003 we launched our Black Box insurance product LittleBox which helps safe drivers to reseive discounts
+                  based on their driving style.
               </p>
             </div>
           </div>
